@@ -7,23 +7,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ibrsec/grid-project/">
+  <a href="https://github.com/ibrsec/Grid-gallery/">
     <img src="./logo.png" alt="Logo" width="200" >
   </a>
 
   <h3 align="center">Grid Gallery Project</h3>
 
   <p align="center">
-    An awesome Grid Gallery Project project!
+    An awesome Grid Gallery Project!
     <br />
-    <a href="https://github.com/ibrsec/grid-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ibrsec/Grid-gallery"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/grid-project/">View Demo</a>
+    <a href="https://ibrsec.github.io/Grid-gallery/">View Demo</a>
     ·
-    <a href="https://github.com/ibrsec/grid-project/issues">Report Bug</a>
+    <a href="https://github.com/ibrsec/Grid-gallery/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ibrsec/grid-project/issues">Request Feature</a>
+    <a href="https://github.com/ibrsec/Grid-gallery/issues">Request Feature</a>
   </p>
 </div>
 
@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![grid-project](./p.png)](https://ibrsec.github.io/grid-project/)
+[![Grid-gallery](./p.png)](https://ibrsec.github.io/Grid-gallery/)
 
 
 

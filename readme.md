@@ -7,23 +7,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ibrsec/F1-News/">
-    <img src="img/logo.png" alt="Logo" width="200" >
+  <a href="https://github.com/ibrsec/grid-project/">
+    <img src="./logo.png" alt="Logo" width="200" >
   </a>
 
-  <h3 align="center">F1 - Latest News</h3>
+  <h3 align="center">Grid Gallery Project</h3>
 
   <p align="center">
-    An awesome F1 - News project!
+    An awesome Grid Gallery Project project!
     <br />
-    <a href="https://github.com/ibrsec/F1-News"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ibrsec/grid-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/F1-News/">View Demo</a>
+    <a href="https://ibrsec.github.io/grid-project/">View Demo</a>
     ·
-    <a href="https://github.com/ibrsec/F1-News/issues">Report Bug</a>
+    <a href="https://github.com/ibrsec/grid-project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ibrsec/F1-News/issues">Request Feature</a>
+    <a href="https://github.com/ibrsec/grid-project/issues">Request Feature</a>
   </p>
 </div>
 
@@ -34,7 +34,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-     <li><a href="#figma">Figma</a></li>
+     <!-- <li><a href="#figma">Figma</a></li> -->
      <li><a href="#project-skeleton">Project Skeleton</a></li>
      <li><a href="#built-with">Built With</a></li>
     <!-- <li>
@@ -59,22 +59,22 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![F1-News](./img/p.gif)](https://ibrsec.github.io/F1-News/)
+[![grid-project](./p.png)](https://ibrsec.github.io/grid-project/)
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
+<!-- 
 ## Figma 
 
-<a href="https://www.figma.com/file/Vr84CxMXaHMHNkBHRd1npy/formula-1-latest-news-grid?type=design&node-id=0%3A1&mode=design&t=xgNGLbR67aWpwaVJ-1">Figma Link</a>
+<a href="">Figma Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
----
+--- -->
 
 ## Project Skeleton 
 

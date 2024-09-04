@@ -19,7 +19,7 @@
     <a href="https://github.com/ibrsec/Grid-gallery"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/Grid-gallery/">View Demo</a>
+    <a href="https://grid-gallery-sable.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/Grid-gallery/issues">Report Bug</a>
     ·
@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Grid-gallery](./p.png)](https://ibrsec.github.io/Grid-gallery/)
+[![Grid-gallery](./p.png)](https://grid-gallery-sable.vercel.app/)
 
 
 
